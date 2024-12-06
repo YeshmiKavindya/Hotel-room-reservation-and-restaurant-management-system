@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+9<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -282,6 +282,6 @@
     </div>
 
     <script src="../bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../book.js"></script>
+    <script src="../js/book.js"></script>
   </body>
 </html>
